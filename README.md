@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="MyDailyStatus" title="#fullstacklab" src="logo.png" width="250px" />
+    <img alt="IGTI DESAFIO 1" title="#igti" src="https://github.com/ChristySchott/bootcamp-igti-desafio1/blob/master/images.png" width="300px" />
 </h1>
 
 <h4 align="center">
