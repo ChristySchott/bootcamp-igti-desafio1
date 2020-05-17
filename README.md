@@ -48,7 +48,7 @@ Construa, utilizando HTML, CSS e JavaScript puro, uma aplicação para a visuali
 ## 🎨 Layout
 
 Resultado final: 
-![Layout Projeto](https://github.com/ChristySchott/bootcamp-igti-desafio1.github.io/blob/master/layout.gif)
+![Layout Projeto](https://github.com/ChristySchott/bootcamp-igti-desafio1/blob/master/layout.gif)
 
 ## :memo: Licença
 
